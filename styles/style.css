@@ -1,0 +1,19 @@
+body {
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 0 0;
+    background-color: rgb(37, 37, 37);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size:128px;
+    padding-bottom:25vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center
+}
